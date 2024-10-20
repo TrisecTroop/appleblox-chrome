@@ -13,6 +13,12 @@
 ![Static Badge](https://img.shields.io/badge/built_with_apples-%23F43F5E)
 [![Discord](https://img.shields.io/discord/1263512148450082837?logo=discord&logoColor=white&label=discord&color=4d3dff)](https://discord.gg/MWHgn8VNZT)
 
+## Welcome to my fork! I do modifications of AppleBlox and commit good changes over to the official repo from here! You can check out my modifications via this repo (dev branch)!
+
+## Description below is the regular description for AppleBlox.
+
+
+
 AppleBlox is a Roblox launcher for **MacOS**, inspired by [Bloxstrap](https://github.com/pizzaboxer/bloxstrap). It includes features such as DiscordRPC and Fast-flags, with ongoing development for additional functionality.
 
 The latest version is available on the [Releases](https://github.com/AppleBlox/appleblox/releases/latest) page. For more recent builds, see the [nightly releases](https://nightly.link/AppleBlox/appleblox/workflows/build/main?preview).
